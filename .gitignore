@@ -1,3 +1,4 @@
 .*/
-[Bb]uilds*/
+[Bb]uild*/
+!Juce/extras/Build
 JuceLibraryCode/
